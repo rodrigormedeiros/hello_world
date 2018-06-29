@@ -1,2 +1,4 @@
 # hello_world
-Hello Medeiros' World
+Hello,
+
+Welcome to Medeiros' World.
